@@ -1,43 +1,45 @@
-.container{
-margin-top: 4%;
-padding-left: 20%;
-padding-right: 20%;
-border-radius: 20%;
-
-
-
-
+body 	{
+	background-color: #ab25ba;
+	border-radius: 10%;
+	font-family: "Ubuntu";
 }
 
-ul li{
-display: inline;
-list-style-type: none;
+
+ul li {
+	display: inline;
+	list-style-type: none;
 }
-.dd {
-margin-left: 8%;
+
+
+a:hover {
+	color: #43434a;
 }
+
+
+h6 {
+	font-weight: 2;
+}
+
+.container-fluid{
+	width: 50%;
+	margin-top: 6%;
+	padding: 0;
+	border-radius: 20%;
+}
+
 .card-header{
-text-align: center;
+	text-align: center;
 }
 
 .btn-link:hover{
-color:#3b3838;
+	color:#3b3838;
 }
 
 .btn-link{
-color:#3b3838;
+	color:#3b3838;
 }
+
 .card-body{
-text-align: justify;
-color: #242222;
-}
-body{
-background-color: #ab25ba;
-border-radius: 20%;
-font-family: "Courier";
-margin: auto;
-
-
-
-
+	text-align: justify;
+	color: #242222;
 }
