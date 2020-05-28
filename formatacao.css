@@ -1,3 +1,8 @@
+
+a.tiralink:hover{
+	text-decoration: none;
+
+}
 body 	{
 	background-color: #ab25ba;
 	border-radius: 10%;
@@ -10,6 +15,9 @@ ul li {
 	/*list-style-type: none;*/
 }
 
+.modal-body{
+	text-align: center;
+}
 
 a:hover {
 	color: #43434a;
@@ -33,13 +41,13 @@ h6{
 
 
 
-.btn-link:hover{
+/*.btn-link:hover{
 	color:#3b3838;
-}
+} 
 
 .btn-link{
 	color:#3b3838;
-}
+} */
 
 .card-body{
 	text-align: justify;
