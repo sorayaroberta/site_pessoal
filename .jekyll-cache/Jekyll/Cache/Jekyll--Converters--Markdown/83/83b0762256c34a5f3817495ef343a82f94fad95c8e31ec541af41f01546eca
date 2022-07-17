@@ -1,35 +1,28 @@
----
-title: //Projects
-permalink: /projects/
-layout: page
-excerpt: Things I've tinkered with.
-comments: false
----
-## Book - print ("My first Print")
+I"�<h2 id="book---print-my-first-print">Book - print (“My first Print”)</h2>
 <p style="padding:0;margin:0">
-	<a class="tag" href="/meu_primeiro_print.pdf">Book</a>  <br/>
-	<a class="tag" href="http://poesiacompilada.com/">Site</a>  <br/>
+	<a class="tag" href="/meu_primeiro_print.pdf">Book</a>  <br />
+	<a class="tag" href="http://poesiacompilada.com/">Site</a>  <br />
     <img class="img" src="/assets/img/1.png" />
 </p>
 
-## PensaEJA Guide
+<h2 id="pensaeja-guide">PensaEJA Guide</h2>
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://sorayaroberta.com/PensaEJA/PensaEJA.pdf">Guide</a>  <br/>
-	<a class="tag" href="https://sorayaroberta.com/PensaEJA/">Site</a>  <br/>
+	<a class="tag" href="https://sorayaroberta.com/PensaEJA/PensaEJA.pdf">Guide</a>  <br />
+	<a class="tag" href="https://sorayaroberta.com/PensaEJA/">Site</a>  <br />
     <img class="img" src="/assets/img/pensaeja.png" />
 </p>
 
-## Computational Thinking Guides for Family 
-# Vol. 1
+<h2 id="computational-thinking-guides-for-family">Computational Thinking Guides for Family</h2>
+<h1 id="vol-1">Vol. 1</h1>
 <p style="padding:0;margin:0">
-	<a class="tag" href="/vol1.pdf">Guide</a>  <br/>
+	<a class="tag" href="/vol1.pdf">Guide</a>  <br />
     <img class="img" src="https://horizontes.sbc.org.br/wp-content/uploads/2020/06/guiapc.png" />
 </p>
 
-# Vol. 2
+<h1 id="vol-2">Vol. 2</h1>
 <p style="padding:0;margin:0">
 	<a class="tag" href="https://drive.google.com/file/d/1y3JREktA8mc-mbdAcLLvgybELupYtnMq/view">Guide</a> 
-    <img class="img" src="/assets/img/vol2.png" target="blank"/>
+    <img class="img" src="/assets/img/vol2.png" target="blank" />
 </p>
 
 <!-- ## Adventures of Leat
@@ -230,3 +223,4 @@ Commandline Hangman game implemented in Ruby!
 </p>
 
 Sufjan Stevens' Lyric Generator using LSTM Model   -->
+:ET
