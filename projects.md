@@ -1,11 +1,12 @@
 ---
-title: //Projects
-permalink: /projects/
+title: //Portfolio
+permalink: /portfolio/
 layout: page
 excerpt: Things I've tinkered with.
 comments: false
 ---
 ## Book - print ("My first Print")
+### In this project ...
 <p style="padding:0;margin:0">
 	<a class="tag" href="/meu_primeiro_print.pdf">Book</a>  <br/>
 	<a class="tag" href="http://poesiacompilada.com/">Site</a>  <br/>
