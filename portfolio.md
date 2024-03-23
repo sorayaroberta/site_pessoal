@@ -5,8 +5,15 @@ layout: page
 excerpt: Things I've tinkered with.
 comments: false
 ---
+## Podcast - Making Art with Code
+<!--### In this project ... -->
+<p style="padding:0;margin:0">
+	<a class="tag" href="https://open.spotify.com/show/7F8YTqk4iMNeNarCxQdPGc">Podcast</a><br/>
+    <img class="img" src="/assets/img/makingart.png" />
+</p>
+
 ## Book - print ("My first Print")
-### In this project ...
+<!--### In this project ... -->
 <p style="padding:0;margin:0">
 	<a class="tag" href="/meu_primeiro_print.pdf">Book</a>  <br/>
 	<a class="tag" href="http://poesiacompilada.com/">Site</a>  <br/>

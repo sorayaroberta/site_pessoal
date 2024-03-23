@@ -16,7 +16,7 @@ author:
     print("Making art with code")
   username: sorayaroberta # general username
   github: sorayaroberta # github username
-  twitter: twitter_username # twitter username
+  # twitter: twitter_username # twitter username
   facebook: professorasorayaroberta # facebook username
   email: soraya.roberta.js@gmail.com # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
