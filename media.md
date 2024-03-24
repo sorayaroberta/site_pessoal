@@ -15,21 +15,21 @@ comments: false
 ## Cibernéticas - GloboPlay | 2023
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://globoplay.globo.com/ciberneticas/t/QpyyNZxRQK/"></a> Film <br/>
+	<a class="tag" href="https://globoplay.globo.com/ciberneticas/t/QpyyNZxRQK/">Film</a><br/>
     <img class="img" src="/assets/img/ciberneticas.png" />
 </p>
 
 ## From rhyme to algorithm - Estadão | 2022
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://www.estadao.com.br/educacao/da-rima-ao-algoritmo-jovem-programadora-usa-poesia-para-ensinar-linguagem-de-computacao/"></a> Newspaper <br/>
+	<a class="tag" href="https://www.estadao.com.br/educacao/da-rima-ao-algoritmo-jovem-programadora-usa-poesia-para-ensinar-linguagem-de-computacao/">Newspaper</a> <br/>
     <img class="img" src="/assets/img/estadao.png" />
 </p>
 
 ## Idade Mídia - GloboPlay | 2022
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://globoplay.globo.com/v/10855828/?s=0s"></a> TV Show <br/>
+	<a class="tag" href="https://globoplay.globo.com/v/10855828/?s=0s">TV Show</a><br/>
     <img class="img" src="/assets/img/idademidia.png" />
 </p>
 
