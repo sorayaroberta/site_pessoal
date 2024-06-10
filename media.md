@@ -5,6 +5,13 @@ layout: page
 excerpt: Things I've tinkered with.
 comments: false
 ---
+## Women in Engeniering | 2024
+<!--### In this project ... -->
+<p style="padding:0;margin:0">
+	<a class="tag" href="https://www.pycon.se/">Reels</a><br/>
+    <img class="img" src="/assets/img/pyconsweden.png" />
+</p>
+
 ## PyCon Sweden | 2023
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
