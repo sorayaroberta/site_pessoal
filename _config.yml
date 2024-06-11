@@ -13,13 +13,14 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Soraya Roberta
   bio: >- # tell to the world
-    print("Making art with code")
+    I’m a speaker, writer, UX researcher, podcaster, and PhD student in Computer Science 
+    at the Federal University of Pernambuco. I'm Brazilian and based in Paris, France. print("I’m Pyladies").
   username: sorayaroberta # general username
   github: sorayaroberta # github username
   # twitter: twitter_username # twitter username
   facebook: professorasorayaroberta # facebook username
   email: soraya.roberta.js@gmail.com # email adress
-  avatar: /assets/img/avatar.png # change with your own avatar
+  avatar: /assets/img/1perfil.jpg # change with your own avatar
 
 # URL settings
 url: "sorayaroberta.com" #

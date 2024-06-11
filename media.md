@@ -5,45 +5,51 @@ layout: page
 excerpt: Things I've tinkered with.
 comments: false
 ---
+## EuroPython | 2024
+<!--### In this project ... -->
+<p style="padding:0;margin:0">
+	<a class="tag" href="https://ep2024.europython.eu/speaker/soraya-roberta" target="_blank" rel="noopener">Site</a><br/>
+    <img class="img" src="/assets/img/EuroPython.png" />
+</p>
 ## Women in Engeniering | 2024
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://www.pycon.se/">Reels</a><br/>
-    <img class="img" src="/assets/img/pyconsweden.png" />
+	<a class="tag" href="https://www.instagram.com/reel/C4vNwCWrLId/?igsh=aWd2ZzlubjJka2Jw" target="_blank" rel="noopener">Reels</a><br/>
+    <img class="img" src="/assets/img/wie.jpg" />
 </p>
 
 ## PyCon Sweden | 2023
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://www.pycon.se/">Talk</a><br/>
+	<a class="tag" href="https://www.pycon.se/" target="_blank" rel="noopener">Talk</a><br/>
     <img class="img" src="/assets/img/pyconsweden.png" />
 </p>
 
 ## Cibernéticas - GloboPlay | 2023
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://globoplay.globo.com/ciberneticas/t/QpyyNZxRQK/">Film</a><br/>
+	<a class="tag" href="https://globoplay.globo.com/ciberneticas/t/QpyyNZxRQK/" target="_blank" rel="noopener">Film</a><br/>
     <img class="img" src="/assets/img/ciberneticas.png" />
 </p>
 
 ## From rhyme to algorithm - Estadão | 2022
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://www.estadao.com.br/educacao/da-rima-ao-algoritmo-jovem-programadora-usa-poesia-para-ensinar-linguagem-de-computacao/">Newspaper</a> <br/>
+	<a class="tag" href="https://www.estadao.com.br/educacao/da-rima-ao-algoritmo-jovem-programadora-usa-poesia-para-ensinar-linguagem-de-computacao/" target="_blank" rel="noopener">Newspaper</a> <br/>
     <img class="img" src="/assets/img/estadao.png" />
 </p>
 
 ## Idade Mídia - GloboPlay | 2022
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://globoplay.globo.com/v/10855828/?s=0s">TV Show</a><br/>
+	<a class="tag" href="https://globoplay.globo.com/v/10855828/?s=0s" target="_blank" rel="noopener">TV Show</a><br/>
     <img class="img" src="/assets/img/idademidia.png" />
 </p>
 
 ## Python Brasil | 2018
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://www.youtube.com/watch?v=L78vgm65YPA">Talk</a><br/>
+	<a class="tag" href="https://www.youtube.com/watch?v=L78vgm65YPA" target="_blank" rel="noopener">Talk</a><br/>
     <img class="img" src="/assets/img/python2018.png" />
 </p>
 

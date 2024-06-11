@@ -5,38 +5,39 @@ layout: page
 excerpt: Things I've tinkered with.
 comments: false
 ---
+<a class="tag" href="/portfolio_soraya_medeiros_en.pdf" target="_blank" rel="noopener"> > My resume [EN]</a><br /> <a class="tag" href="/portfolio_soraya_medeiros_pt.pdf" target="_blank" rel="noopener"> > My resume [PT] </a>
 ## Podcast - Making Art with Code
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://open.spotify.com/show/7F8YTqk4iMNeNarCxQdPGc">Podcast</a><br/>
+	<a class="tag" href="https://open.spotify.com/show/7F8YTqk4iMNeNarCxQdPGc" target="_blank" rel="noopener">Podcast</a><br/>
     <img class="img" src="/assets/img/makingart.png" />
 </p>
 
 ## Book - print ("My first Print")
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="/meu_primeiro_print.pdf">Book</a>  <br/>
-	<a class="tag" href="http://poesiacompilada.com/">Site</a>  <br/>
+	<a class="tag" href="/meu_primeiro_print.pdf" target="_blank" rel="noopener">Book</a>  <br/>
+	<a class="tag" href="http://poesiacompilada.com/" target="_blank" rel="noopener">Site</a>  <br/>
     <img class="img" src="/assets/img/1.png" />
 </p>
 
 ## PensaEJA Guide
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://sorayaroberta.com/PensaEJA/PensaEJA.pdf">Guide</a>  <br/>
-	<a class="tag" href="https://sorayaroberta.com/PensaEJA/">Site</a>  <br/>
+	<a class="tag" href="https://sorayaroberta.com/PensaEJA/PensaEJA.pdf" target="_blank" rel="noopener">Guide</a>  <br/>
+	<a class="tag" href="https://sorayaroberta.com/PensaEJA/" target="_blank" rel="noopener">Site</a>  <br/>
     <img class="img" src="/assets/img/pensaeja.png" />
 </p>
 
 ## Computational Thinking Guides for Family 
 # Vol. 1
 <p style="padding:0;margin:0">
-	<a class="tag" href="/vol1.pdf">Guide</a>  <br/>
+	<a class="tag" href="/vol1.pdf" target="_blank" rel="noopener">Guide</a>  <br/>
     <img class="img" src="https://horizontes.sbc.org.br/wp-content/uploads/2020/06/guiapc.png" />
 </p>
 
 # Vol. 2
 <p style="padding:0;margin:0">
-	<a class="tag" href="https://drive.google.com/file/d/1y3JREktA8mc-mbdAcLLvgybELupYtnMq/view">Guide</a> 
+	<a class="tag" href="https://drive.google.com/file/d/1y3JREktA8mc-mbdAcLLvgybELupYtnMq/view" target="_blank" rel="noopener">Guide</a> 
     <img class="img" src="/assets/img/vol2.png" target="blank"/>
 </p>
 
