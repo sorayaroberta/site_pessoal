@@ -18,7 +18,7 @@ author:
   username: sorayaroberta # general username
   github: sorayaroberta # github username
   # twitter: twitter_username # twitter username
-  facebook: professorasorayaroberta # facebook username
+  #facebook: professorasorayaroberta # facebook username
   email: soraya.roberta.js@gmail.com # email adress
   avatar: /assets/img/1perfil.jpg # change with your own avatar
 
@@ -26,7 +26,7 @@ author:
 url: "sorayaroberta.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: 
 fb_appid:
 
 # Collection setting
