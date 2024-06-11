@@ -5,12 +5,12 @@
         {
             "src": "/1perfil.jpg",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/jpg"
         },
         {
             "src": "/1perfil.jpg",
             "sizes": "384x384",
-            "type": "image/png"
+            "type": "image/jpg"
         }
     ],
     "theme_color": "#ffffff",
