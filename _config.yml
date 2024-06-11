@@ -1,11 +1,11 @@
 # Site settings
 title: Soraya Roberta # site title
 description: >-  # site description
-  [I’m a speaker, writer, UX researcher, podcaster, and PhD student in Computer Science 
-    at the Federal University of Pernambuco. I'm Brazilian and based in Paris, France. print("I’m PyLadies").]
+  I’m a speaker, writer, UX researcher, podcaster, and PhD student in Computer Science 
+    at the Federal University of Pernambuco. I'm Brazilian and based in Paris, France. print("I’m PyLadies").
 lang: en-US # default lang
 timezone: Europe/Paris # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/1perfil.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
