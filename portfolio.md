@@ -16,7 +16,8 @@ comments: false
 ## Book - print ("My first Print")
 <!--### In this project ... -->
 <p style="padding:0;margin:0">
-	<a class="tag" href="/meu_primeiro_print.pdf" target="_blank" rel="noopener">Book</a>  <br/>
+	<a class="tag" href="/my_first_print.pdf" target="_blank" rel="noopener">Book (in English)</a>  <br/>
+	<a class="tag" href="/meu_primeiro_print.pdf" target="_blank" rel="noopener">Book (in Portuguese)</a>  <br/>
 	<a class="tag" href="http://poesiacompilada.com/" target="_blank" rel="noopener">Site</a>  <br/>
     <img class="img" src="/assets/img/1.png" />
 </p>
